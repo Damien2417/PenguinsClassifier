@@ -1,0 +1,3 @@
+# Projet de Classification des Espèces de Manchots
+
+Ce projet Jupyter a pour but de développer un modèle de classification pour identifier différentes espèces de manchots. L'objectif principal est de créer un système capable de distinguer automatiquement les différentes espèces de manchots à partir de données collectées, telles que les mesures physiques et les caractéristiques géographiques. En appliquant des techniques avancées de machine learning, ce projet cherche à contribuer à la recherche en biologie et en écologie, en facilitant l'identification des espèces de manchots. Ce travail a pour but d'aider les biologistes et les écologistes dans leurs études sur la biodiversité, la conservation des espèces et l'écologie des manchots.
